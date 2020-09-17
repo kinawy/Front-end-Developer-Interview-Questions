@@ -18,18 +18,18 @@ permalink: /questions/general-questions/index.html
  12. Can you describe the difference between progressive enhancement and graceful degradation?
  13. How would you optimize a website's assets/resources?
  14. How many resources will a browser download from a given domain at a time?
- 15. What are the exceptions?
- 16. Name 3 ways to decrease page load (perceived or actual load time).
- 17. If you jumped on a project and they used tabs and you used spaces, what would you do?
- 18. Describe how you would create a simple slideshow page.
- 19. If you could master one technology this year, what would it be?
- 20. Explain the importance of standards and standards bodies.
- 21. What is Flash of Unstyled Content? How do you avoid FOUC?
- 22. Explain what ARIA and screenreaders are, and how to make a website accessible.
- 23. Explain some of the pros and cons for CSS animations versus JavaScript animations.
- 24. What does CORS stand for and what issue does it address?
- 25. How did you handle a disagreement with your boss or your collaborator?
- 26. What resources do you use to learn about the latest in front end development and design?
- 27. What skills are needed to be a good front-end developer?
- 28. What role do you see yourself?
- 29. Explain the difference between cookies, session storage, and local storage?
+    * What are the exceptions?
+ 15. Name 3 ways to decrease page load (perceived or actual load time).
+ 16. If you jumped on a project and they used tabs and you used spaces, what would you do?
+ 17. Describe how you would create a simple slideshow page.
+ 18. If you could master one technology this year, what would it be?
+ 19. Explain the importance of standards and standards bodies.
+ 20. What is Flash of Unstyled Content? How do you avoid FOUC?
+ 21. Explain what ARIA and screenreaders are, and how to make a website accessible.
+ 22. Explain some of the pros and cons for CSS animations versus JavaScript animations.
+ 23. What does CORS stand for and what issue does it address?
+ 24. How did you handle a disagreement with your boss or your collaborator?
+ 25. What resources do you use to learn about the latest in front end development and design?
+ 26. What skills are needed to be a good front-end developer?
+ 27. What role do you see yourself?
+ 28. Explain the difference between cookies, session storage, and local storage?
